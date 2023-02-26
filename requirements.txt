@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+requests
+email-validator==1.8.1
